@@ -270,6 +270,7 @@ h6 {
   height: 42vh;
   background: url("../img/bg.png") top center no-repeat;
   background-size: contain;
+  padding-left: 65%;
   position: relative;
 }
 
